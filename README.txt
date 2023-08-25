@@ -1,0 +1,1 @@
+Hi. This is my first Python project. It allows you to guess the number on three different difficulties. Give it a shot and let me know how it goes. Thanks! --ConiferMagus
