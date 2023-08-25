@@ -1,1 +1,1 @@
-Hi. This is my first Python project. It allows you to guess the number on three different difficulties. Give it a shot and let me know how it goes. Thanks! --ConiferMagus
+Hi. This is my first Python project. Download the numbrgessr folder and run the global application. It only needs numbrgessr4.py and global.py to run, but I wanted to document my learning and the different iterations of my code. The program allows you to guess the number on three different difficulties. Give it a shot and let me know how it goes. Thanks! --ConiferMagus
